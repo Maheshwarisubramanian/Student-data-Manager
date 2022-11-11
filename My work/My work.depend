@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667743524 source:c:\users\elcot\downloads\my work\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
